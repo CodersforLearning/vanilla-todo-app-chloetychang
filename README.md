@@ -2,7 +2,7 @@
 # todo-app-vanilla
 ## Basic requirements for this todo app:
 - Ability to create a new task (Done!!)
-- Ability to mark a task as completed (Done!! Though not too clear - something to improve on as a personal project?)
+- Ability to mark a task as completed (Done!!)
 - Ability to delete a task (Done!!)
 
 ## Adding extra flair:
