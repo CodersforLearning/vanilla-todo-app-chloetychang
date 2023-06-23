@@ -11,9 +11,4 @@
 ## Extra features:
 - Wipe out the whole list
 - List saves itself through local storage
-
-## Something to work on:
-- Editing the list items
-- 'Pending' and 'Completed' sections
-- Dates (Due dates and completed dates)
   
